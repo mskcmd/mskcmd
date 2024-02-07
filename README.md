@@ -15,8 +15,9 @@
 <hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-suhail-k-343748277" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash_srivastava" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/wwwsuhail883" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wwwsuhail883" height="30" width="40" /></a>
 <a href="mailto:mskcmd7025@gmail.com" target="_blank"><img align="center" src="https://mikindom.sirv.com/Images/gmail.png" alt="mskcmd7025" height="30" width="30" /></a>
- <a href="https://www.leetcode.com/wwwsuhail883" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wwwsuhail883" height="30" width="40" /></a>
+
 </p>
 <br>
 
