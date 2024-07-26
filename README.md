@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Coding" width="100%">
-</div>
+
 
 <h1 align="center">Hi there! I'm Muhammed Suhail 👋</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Kerala, India 🚀</h3>
