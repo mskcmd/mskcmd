@@ -24,7 +24,7 @@
 - 💻 I'm passionate about building powerful and responsive web applications
 - 🌱 Currently exploring advanced MERN stack concepts
 - 👨‍💻 Check out my projects on [my LinkedIn profile](https://www.linkedin.com/in/muhammed-suhail-k-343748277/)
-- 📫 Reach me at: **mskcmd7025@gmail.com**
+- 📫 Reach me at: **msuhailcmd@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code! ☕💻
 
 ## 🛠️ Tech Stack
