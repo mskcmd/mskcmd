@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/muhammed-suhail-k-343748277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:mskcmd7025@gmail.com">
+  <a href="mailto:msuhailcmd@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://www.leetcode.com/wwwsuhail883" target="_blank">
