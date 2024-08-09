@@ -51,9 +51,39 @@
       <td>Node, Express, MongoDB</td>
       <td><a href="https://github.com/mskcmd/keyzen-shop.git" target="_blank">GitHub Repository</a></td>
     </tr>
-    <!-- Add more projects here -->
+    <tr>
+      <td>2.</td>
+      <td>User Management System (Redux,JWT)</td>
+      <td>React, Node.js, Express, MongoDB</td>
+      <td><a href="https://github.com/mskcmd/MERN_Stack_Auth" target="_blank">GitHub Repository</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>User Management System ()</td>
+      <td>Node.js, Express, MongoDB</td>
+      <td><a href="https://github.com/your-repo-link-here" target="_blank">GitHub Repository</a></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>OLX Clone - Firebase</td>
+      <td>React, Firebase</td>
+      <td><a href="https://github.com/mskcmd/olx_clone" target="_blank">GitHub Repository</a></td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Netflix Clone</td>
+      <td>React, Axios</td>
+      <td><a href="https://github.com/mskcmd/netflix_clone" target="_blank">GitHub Repository</a></td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td>To-Do App</td>
+      <td>React, Tailwind, TypeScript</td>
+      <td><a href="https://github.com/mskcmd/Todo_TypeScript" target="_blank">GitHub Repository</a></td>
+    </tr>
   </tbody>
 </table>
+
 
 ## 📊 GitHub Stats
 
